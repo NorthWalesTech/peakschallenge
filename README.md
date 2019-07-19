@@ -2,7 +2,10 @@
 
 ## Inspiration
 
-https://www.threepeakschallenge.uk/
+https://en.wikipedia.org/wiki/National_Three_Peaks_Challenge
+https://en.wikipedia.org/wiki/Five_Peaks_Challenge
+
+https://en.wikipedia.org/wiki/Snaefell
 
 http://gx4crc.com/guglielmo-marconi/
 
