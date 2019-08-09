@@ -10,6 +10,10 @@ https://en.wikipedia.org/wiki/Snaefell
 
 http://gx4crc.com/guglielmo-marconi/
 
+## Guides
+
+https://hackmd.io/MnFv_kPCQwSPHRcyOTj6fQ
+
 ## PyCom Documentation
 
 
@@ -19,6 +23,12 @@ https://docs.pycom.io/tutorials/lora/pymesh-br/
 
 https://docs.pycom.io/advance/encryption/
 
+## PyMesh
+
+There are multiple parts of Pymesh:
+1. the core
+2. the micropython bindings: https://github.com/pycom/pycom-micropython-sigfox/blob/release-candidate/esp32/mods/modmesh.c
+3. micropython scripts, these are  https://github.com/pycom/pycom-libraries/tree/master/lib/pymesh
 
 ## PyMesh Applications
 
@@ -50,3 +60,6 @@ https://forum.pycom.io/topic/4449/pymesh-updates/13
 ## Other Useful Software
 
 https://github.com/danielknox/lorawan_network_tester
+
+
+
